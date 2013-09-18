@@ -1,0 +1,9 @@
+{
+    "version": "0.1",
+    "stations": [
+        {
+            "name": "Canning Town",
+            "mac": "C8:F9:F9:5B:8743"
+        }
+    ]
+}
