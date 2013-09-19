@@ -3,7 +3,17 @@
     "stations": [
         {
             "name": "Canning Town",
-            "mac": [ "C8:F9:F9:5B:87:43" ]
+            "mac": [
+                "C8:F9:F9:5B:87:43"
+            ]
+        },
+        {
+            "name": "Bow Road",
+            "mac": [
+                "88:03:55:2B:BE:E4",
+                "7C:03:4C:84:65:EA",
+                "00:18:F6:6F:A2:AA"
+            ]
         }
     ]
 }
