@@ -3,7 +3,7 @@
     "stations": [
         {
             "name": "Canning Town",
-            "mac": "C8:F9:F9:5B:8743"
+            "mac": [ "C8:F9:F9:5B:87:43" ]
         }
     ]
 }
